@@ -66,7 +66,7 @@
  ## 🏆 My Github Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliogutcen&theme=dark)
 <br></br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MertNamsal&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aliogutcen&show_icons=true&theme=dark)
 <br></br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MertNamsal&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aliogutcen&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  
